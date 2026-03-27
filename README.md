@@ -4,5 +4,5 @@
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=flat&logo=scratch&logoColor=white)
-![Kore](https://img.shields.io/badge/Kore-FFD700?style=flat&logoColor=black)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuperBananaMonkey&show_icons=true&theme=dark)
